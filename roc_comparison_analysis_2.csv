@@ -1,0 +1,4 @@
+"Model","N","AUC","Sensitivity_at_optimal","Specificity_at_optimal"
+"Overall",1360,0.6578,0.599,0.645
+"Male",687,0.6603,0.709,0.554
+"Female",673,0.6273,0.705,0.498

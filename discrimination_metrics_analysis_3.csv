@@ -1,0 +1,10 @@
+"Metric","Value"
+"AUC",0.6578
+"Sensitivity",0.599
+"Specificity",0.645
+"Positive Predictive Value",0.778
+"Negative Predictive Value",0.436
+"Positive Likelihood Ratio",1.687
+"Negative Likelihood Ratio",0.622
+"Youden Index",0.244
+"Optimal Threshold",0.741

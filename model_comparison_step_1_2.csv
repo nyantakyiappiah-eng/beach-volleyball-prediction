@@ -1,0 +1,5 @@
+"Metric","Original","Expanded"
+"Predictors","4","8"
+"Training AUC","0.6267","0.6833"
+"Test AUC","0.6306","0.6578"
+"AUC Improvement (Test)","—","+2.72%"

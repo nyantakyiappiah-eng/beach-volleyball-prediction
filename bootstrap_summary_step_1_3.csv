@@ -1,0 +1,4 @@
+"Analysis","N_Bootstrap","Apparent_AUC","Test_AUC","Optimism","Shrinkage_Factor"
+"Overall",200,0.6841,0.6809,0.0032,0.9954
+"Male",100,0.6842,0.6777,0.0066,NA
+"Female",100,0.7037,0.697,0.0066,NA

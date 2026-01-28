@@ -1,0 +1,3 @@
+"Gender","N_Test","Test_AUC","Upset_Rate"
+"Male",687,0.6603,31
+"Female",673,0.6273,34
